@@ -3,7 +3,7 @@
 # useful accelerator keys
 ## operating system
 ### Win + D
-going back to the desktop
+go back to the desktop
 
 ## Word
 ### Shift + F3
@@ -16,3 +16,13 @@ STUDYING ENGLISH AT BEIJING FOREIGN STUDIES UNIVERSITY
 studying english at beijing foreign studies university
 Studying English At Beijing Foreign Studies University
 ```
+
+### Ctrl + I
+italisize
+
+### Ctrl + U
+underline
+
+## Browser applications
+### Ctrl + J
+open up download interface
