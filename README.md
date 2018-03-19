@@ -23,6 +23,12 @@ italisize
 ### Ctrl + U
 underline
 
-## Browser applications
+## Chrome
 ### Ctrl + J
 open up download interface
+
+## Sublime Text
+### Ctrl + [
+left indent(tab)
+### Ctrl + ]
+right indent(tab)
