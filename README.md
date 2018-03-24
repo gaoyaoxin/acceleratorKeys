@@ -5,6 +5,11 @@
 ### Win + D
 go back to the desktop
 
+### Shift + SPACE
+Full- / Half-width Input
+
+### Ctrl + '[>.]' Key
+Chinese / English punctuation marks
 ## Word
 ### Shift + F3
 ```
